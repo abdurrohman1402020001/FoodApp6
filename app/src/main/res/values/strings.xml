@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="teks_name">Hei abdurrohman</string>
+    <string name="teks_hari">Hari ini makan apa</string>
+    <string name="teks_diskon">Diskon 50%</string>
+    <string name="teks_harga">Harga terjangkau</string>
+    <string name="teks_harga_terjangkau">Harga terjangkau</string>
+    <string name="teks_nasi">Nasi</string>
+    <string name="teks_snack">Snack</string>
+    <string name="teks_mie">Mie</string>
+    <string name="teks_minuman">Minuman</string>
+    <string name="teks_list_menu">List Menu</string>
+    <string name="teks_ayam_bakar">Ayam Bakar</string>
+    <string name="teks_rp_5000">Rp. 5000</string>
+    <string name="teks_ayam_madu">Ayam Madu</string>
+    <string name="teks_Rp_25_000">Rp. 25,000</string>
+    <string name="teks_mietelur">MieTelur</string>
+    <string name="teks_Rp_29_000">Rp. 29,000</string>
+    <string name="teks_Rp_50_000">Rp. 50,000</string>
+    <string name="teks_mie_naruto">Mie Naruto</string>
+    <string name="img_desc">TODO</string>
+    <string name="img_desc_image">image</string>
+
+    <string name="hint_name">Your name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_log_in">Log in</string>
+    <string name="text_not_registered_yet_register_here">Not registered yet ? Register Here</string>
+    <string name="text_already_have_an_account_click_here">Already have an Account ? Login Here</string>
+    <string name="text_error_email_empty">Email should not be empty</string>
+    <string name="text_error_email_invalid">Enter a valid format email</string>
+    <string name="text_error_password_empty">Password should not be empty</string>
+    <string name="text_error_password_less_than_8_char">Password cannot less than 8 character</string>
+    <string name="text_register">Register</string>
+    <string name="text_password_does_not_match">Password doesn\'t match</string>
+    <string name="text_error_name_cannot_empty">Name cannot be empty</string>
+    <string name="text_highlight_login_here">Login Here</string>
+    <string name="text_highlight_register">Register Here</string>
+</resources>
